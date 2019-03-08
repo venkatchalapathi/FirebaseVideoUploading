@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "132192338541",
+    "firebase_url": "https://fir-videouploading.firebaseio.com",
+    "project_id": "fir-videouploading",
+    "storage_bucket": "fir-videouploading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132192338541:android:7f9c0885cb36d167",
+        "android_client_info": {
+          "package_name": "com.example.firebasevideouploading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132192338541-ltnece458c61kr7j1ud5chameu4nt233.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasevideouploading",
+            "certificate_hash": "260b7a6e90971d9c7b67a01566be87e91d61e71f"
+          }
+        },
+        {
+          "client_id": "132192338541-mctsfdbni0d15qssfl08q945sd83qcsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6GRVkcHkRl-bfqXWtj7LBLXQXpidFaGw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132192338541-mctsfdbni0d15qssfl08q945sd83qcsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
